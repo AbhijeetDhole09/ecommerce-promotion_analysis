@@ -19,3 +19,14 @@ This project analyzes the impact of different promotional strategies on sales pe
 
 ## 🚀 Outcome
 Improved understanding of promotion effectiveness and data-driven decision making.
+## 📊 Dashboard Preview
+![Dashboard](dashboard.png)
+
+## 📈 Key Insights
+- Promotions increased sales by X%
+- Identified top-performing stores and products
+- Found impact of discount on profit
+
+## 💡 Business Impact
+- Helped understand which promotions work best
+- Improved decision-making using data
