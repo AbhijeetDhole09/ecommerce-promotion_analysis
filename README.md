@@ -1,32 +1,48 @@
 # 📊 E-commerce Promotion Analysis
 
 ## 📌 Project Overview
-This project analyzes the impact of different promotional strategies on sales performance using SQL and Power BI.
+This project analyzes the impact of different promotional strategies on sales performance using SQL and Power BI. The goal is to identify which promotions drive the most revenue and improve business decisions.
 
-## 🛠 Tools Used
-- SQL
-- Power BI
-- Excel
+---
 
-## 📂 Files Included
-- SQL Project.sql → Data analysis queries
-- Sales_data_new.csv → Dataset used for analysis
+## 🛠 Tools & Technologies
+- SQL (Data Analysis)
+- Power BI (Visualization)
+- Excel (Data Handling)
 
-## 📊 Key Insights
-- Compared sales before and after promotions
-- Identified top-performing promotion types
-- Analyzed store-level performance
+---
 
-## 🚀 Outcome
-Improved understanding of promotion effectiveness and data-driven decision making.
+## 📂 Dataset
+- Sales_data_new.csv
+- Contains sales, profit, discount, and promotion details
+
+---
+
 ## 📊 Dashboard Preview
 ![Dashboard](dashboard.png)
 
+---
+
 ## 📈 Key Insights
-- Promotions increased sales by X%
-- Identified top-performing stores and products
-- Found impact of discount on profit
+- Promotions significantly increased sales performance
+- Discount-based promotions showed higher customer engagement
+- Certain stores and products performed better during campaigns
+
+---
 
 ## 💡 Business Impact
-- Helped understand which promotions work best
-- Improved decision-making using data
+- Helps businesses choose the best promotion strategy
+- Improves decision-making using data insights
+- Identifies high-performing products and locations
+
+---
+
+## 🚀 Project Files
+- SQL Project.sql → SQL queries
+- Sales_data_new.csv → Dataset
+- Ecommerce_Dashboard.pbix → Power BI Dashboard
+
+---
+
+## 🔗 GitHub Link
+https://github.com/AbhijeetDhole09/ecommerce-promotion_analysis
